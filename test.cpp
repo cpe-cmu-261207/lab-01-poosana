@@ -1,6 +1,9 @@
 #include<iostream>
- 
+ using namespace std;
+
 int main(){
-    cout<<"test";
+    int a;
+    cout<<"test ";
+    cin>>a;
     return 0;
-}
+} 
